@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;sortedArr&apos; in &apos;LinearSearch.main(...)&apos; to &apos;arr&apos;&#x0D;&#x0A;- Original project: &apos;Search&apos;&#x0D;&#x0A;- Original element: &apos;LinearSearch.main(String[]).sortedArr&apos;&#x0D;&#x0A;- Renamed element: &apos;sortedArr&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;sortedArr&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{LinearSearch.java[LinearSearch~main~\[QString;@sortedArr!862!924!868!876!\[I!0!false" name="arr" references="true" stamp="1686306405471" version="1.0"/>
+</session>
